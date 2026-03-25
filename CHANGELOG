@@ -7,7 +7,8 @@ future releases, check `milestones`_ and :doc:`/about/vision`.
 2.6.0 (unreleased)
 ----------------
 
-- No changes yet
+- Upgrade to Django 6.0
+- Drop support for Python 3.8 & 3.9
 
 
 2.5.0 (2025-10-28)

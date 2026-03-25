@@ -8,6 +8,7 @@
 /var/
 coverage.xml
 .coverage/
+.coverage
 
 # Python files.
 *.pyc
